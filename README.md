@@ -395,9 +395,3 @@ plot(waypoints(end), waypoints(end), 'bs', 'MarkerFaceColor', 'b', 'MarkerSize',
 plot(x(end), y(end), 'rs', 'MarkerFaceColor', 'r', 'MarkerSize', 10); % Final Position
 
 legend('Desired Trajectory', 'Actual Path', 'Start Point', 'End Point', 'Final Position');
-
-
-
-
-
-
